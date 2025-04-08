@@ -1,0 +1,12 @@
+names = set()
+names.add("rahil")
+names.add("aaryan")
+names.add("het")
+names.add("nirmit")
+names.add("aayush")
+names.remove("het")
+names.add("dhyaan")
+names.remove("nirmit")
+names.remove("aayush")
+print(names)
+
